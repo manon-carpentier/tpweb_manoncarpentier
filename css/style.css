@@ -33,6 +33,7 @@
 }
 
 .annonce {
+display:inline-block;
 color : yellow;
 background: rgba(159,22,0,.6);
 padding: 20px;
@@ -40,10 +41,19 @@ border:1px solid yellow;
 }
 
 .ensavoir {
+	display:inline-block;
 	color : yellow;
 background: black;
 padding: 20px;
 border:1px solid yellow;
 margin-left: 10px;
+}
+
+.actualite {
+	color : yellow;
+}
+
+.col-12 {
+	color : white;
 }
 	 
