@@ -1,1 +1,49 @@
+@charset "UTF-8";
+/* CSS Document */
 
+
+#bandeausaison4 {
+	background-image : url(../image/combat.jpg);
+	background-size:cover;
+	background-position: center;
+	margin-left: auto;
+}
+
+#bandeausaison4 h1 {
+	color : white;
+	text-align : left;
+	font-weight : 700;
+	font-size : 57px;
+	font-family : Arial;
+	text-transform : uppercase;
+	padding-top : 300px;
+	margin-bottom: 20px;
+}
+
+#bandeausaison4 p {
+	color : white;
+	text-align:left;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.decouvrir {
+	color : white;
+	text-decoration : underline;
+}
+
+.annonce {
+color : yellow;
+background: rgba(159,22,0,.6);
+padding: 20px;
+border:1px solid yellow;
+}
+
+.ensavoir {
+	color : yellow;
+background: black;
+padding: 20px;
+border:1px solid yellow;
+margin-left: 10px;
+}
+	 
